@@ -31,10 +31,14 @@
             "id": "f5acff66c6cf5676",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
             }
           }
         ]
@@ -110,6 +114,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Основная информация/ВЕЛИКИЙ ПЛАН.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +124,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for ВЕЛИКИЙ ПЛАН"
             }
           },
           {
@@ -128,11 +133,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Основная информация/ВЕЛИКИЙ ПЛАН.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from ВЕЛИКИЙ ПЛАН"
             }
           },
           {
@@ -170,12 +176,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Основная информация/ВЕЛИКИЙ ПЛАН.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of ВЕЛИКИЙ ПЛАН"
             }
           }
         ]
@@ -197,11 +204,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f5acff66c6cf5676",
+  "active": "ec5e841bf40ab76a",
   "lastOpenFiles": [
-    "LICENSE",
     "README.md",
     "Основная информация/ВЕЛИКИЙ ПЛАН.md",
+    "LICENSE",
     "Welcome.md",
     "Мета",
     "Основная информация"
