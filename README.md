@@ -1,4 +1,3 @@
 # Rain-World-RP-Archive
-Репозиторий для всей информации по Rain World RP
+Репозиторий для всей информации по RWP RP
 
-bdjdfjn
